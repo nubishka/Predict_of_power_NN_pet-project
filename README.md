@@ -1,3 +1,3 @@
 В проекте рассматривается применение нейронной сети для предсказания мощности нагрузки (временной ряд).
 Данный проект был реализован в рамках ВКР.
-Исходные данные и сама ВКР доступны по ссылке https://drive.google.com/drive/folders/19jL7PKxBszPI5eW5kiNZJ6fpXfGuOW0V?usp=sharing
+Исходные данные и сама ВКР доступны по ссылке: https://drive.google.com/drive/folders/19jL7PKxBszPI5eW5kiNZJ6fpXfGuOW0V?usp=sharing
